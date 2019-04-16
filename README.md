@@ -7,3 +7,7 @@ python3 /home/pi/prototype/examples/ComputerVision/pi-MotionDetect-IoT/motion_de
 
 to run in terminal no log output
 python3 /home/pi/prototype/examples/ComputerVision/pi-MotionDetect-IoT/motion_detector.py &
+
+Make sure you have OPENCV installed 
+
+pip3 install -r requirements.txt 
